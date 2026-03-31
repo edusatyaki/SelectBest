@@ -1,0 +1,11 @@
+ID,Name,Age,Score,Category,Status
+1,Alice,25,85.5,A,Active
+2,Bob,30,90.0,B,Inactive
+3,Charlie,35,95.5,A,Active
+4,David,40,80.0,C,Inactive
+5,Eve,45,75.5,B,Active
+6,Frank,50,60.0,A,Active
+7,Grace,55,65.5,C,Inactive
+8,Heidi,60,70.0,B,Active
+9,Ivan,65,55.5,A,Inactive
+10,Judy,70,45.0,C,Active
